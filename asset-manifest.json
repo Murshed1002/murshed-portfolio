@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/murshed-portfolio/static/css/main.aaf74a86.css",
+    "main.js": "/murshed-portfolio/static/js/main.92f3063a.js",
+    "index.html": "/murshed-portfolio/index.html",
+    "static/media/profile.svg": "/murshed-portfolio/static/media/profile.1956778156939a8ae1d61efda19685bc.svg",
+    "main.aaf74a86.css.map": "/murshed-portfolio/static/css/main.aaf74a86.css.map",
+    "main.92f3063a.js.map": "/murshed-portfolio/static/js/main.92f3063a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaf74a86.css",
+    "static/js/main.92f3063a.js"
+  ]
+}
